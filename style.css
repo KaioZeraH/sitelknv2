@@ -25,11 +25,10 @@ body{
 
     margin: 0px;
     text-align: center;
-    background-image: linear-gradient(to bottom, var(--cor1), var(--cor4), var(--cor5));
+    /* background-image: linear-gradient(to bottom, var(--cor1), var(--cor4), var(--cor5));
     padding: 0px 10px;
-    
-   
-    
+    */
+    background-image: url('imagem/grovegta5.jpg');
 
     
     
@@ -43,7 +42,7 @@ header{
     width: auto;
     padding: 0%;
     margin-top: 0%;
-    
+    background-image: url('imagem/grovegta5.jpg');
     
     
   
@@ -184,7 +183,6 @@ footer{
     color: white;
     text-align: center;
     position: bottom;
-    
     font-size: 0.8em;
 
 }
@@ -334,4 +332,32 @@ footer > p {
 .historialkn{
     padding-bottom: 20px;
 
+}
+
+
+/*História*/
+.bannertops  {
+    
+    padding-top: 40px;
+    padding-bottom: 5px;
+    
+
+
+}
+
+
+.midiass{
+    position: bottom;
+    margin-top: 0px;
+    padding: 0px;
+    height: auto;
+    
+}
+
+.bannerpes{
+    position: bottom;
+    margin-bottom: 0px;
+    width: 50%;
+    margin: auto;
+    
 }
