@@ -216,6 +216,8 @@ footer > p {
     align-items: center;
     height: 10%;
     font-size: 25px;
+    
+    
 
 }
 
@@ -346,18 +348,20 @@ footer > p {
 }
 
 
-.midiass{
+.direitos{
+    
+    background-color: rgb(39, 37, 37);
+    color: white;
+    text-align: center;
     position: bottom;
-    margin-top: 0px;
-    padding: 0px;
-    height: auto;
+    font-size: 0.8em;
     
 }
 
 .bannerpes{
-    position: bottom;
+
     margin-bottom: 0px;
     width: 50%;
-    margin: auto;
+    
     
 }
